@@ -4,7 +4,10 @@ Generamos el Pago desde FrontEnd
 
 
 Respuesta en Consola
-![consola](https://user-images.githubusercontent.com/57849![evidencia](https://user-images.githubusercontent.com/57849420/212805783-7e547527-9590-4a58-8aab-169d30731acd.JPG)
+![consola](https://user-images.githubusercontent.com/57849420/212807654-05bf8caa-08e3-4125-86d9-13dc35de3d9f.JPG)
+
+
+
 Respuesta
 ![cartokenStatus](https://user-images.githubusercontent.com/57849420/212807564-08e2a8ec-46dd-47ba-9b4a-79c5488a69f3.JPG)
 
