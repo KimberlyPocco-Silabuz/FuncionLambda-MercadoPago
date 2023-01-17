@@ -7,10 +7,10 @@ def lambda_handler(event, context):
     #trabajamos con checkoutbrick usando el SDK de mercadopago
     sdk= mercadopago.SDK(os.environ["ACCESS_TOKEN"])
 
-    #event traerá los datos object JSON
+    #event traerá los datos object JSON del cardFormData
     bodyGet = event
     
-    #cargara los datos de cardFormData
+    #creara el pago
     payment_response = sdk.payment().create(bodyGet)
     payment = payment_response["response"]
     
