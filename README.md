@@ -12,5 +12,10 @@ Respuesta
 ![cartokenStatus](https://user-images.githubusercontent.com/57849420/212807564-08e2a8ec-46dd-47ba-9b4a-79c5488a69f3.JPG)
 
 Respuesta Network
+headers
+![heardersConsola](https://user-images.githubusercontent.com/57849420/212807874-38707262-b661-406b-959c-b7bfb9cb1ee5.JPG)
+
+
+Payload
 ![NetworkPayload](https://user-images.githubusercontent.com/57849420/212805818-d4b55226-c61c-445a-9636-9b102a1b1a03.JPG)
 
