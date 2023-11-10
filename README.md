@@ -1,4 +1,4 @@
-# PROYECTO LAMBDA AWS CON MERCADOPAGO
+# Proyecto LAMBDA AWS integrado con Mercado Pago
 Generamos el Pago desde FrontEnd
 ![Pago SweetAlert](https://user-images.githubusercontent.com/57849420/212807416-80f7c1de-5f1d-4bfa-9fda-a8583aa31a1b.JPG)
 
